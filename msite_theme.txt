@@ -1,0 +1,4 @@
+//theming
+a. SAdmin > Appearance > Themes > ThemeSelector - theme selection
+b. moodle has 2 different themes - Classic and Boost 
+c.  
