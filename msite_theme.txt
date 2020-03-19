@@ -1,4 +1,15 @@
 //theming
-a. SAdmin > Appearance > Themes > ThemeSelector - theme selection
-b. moodle has 2 different themes - Classic and Boost 
-c.  
+a. moodle has 2 different themes - Classic and Boost 
+b. SAdmin > Appearance > Themes > ThemeSelector - theme selection
+c. SAdmin > Frontpage Settings 
+d. 
+
+------------------------------------------
+grid format on frontpage 
+home page format change for different logins
+home page to be made in 3 columns 
+moodle theme like classic for admin 
+moodle theme like boost for frontend
+
+
+
